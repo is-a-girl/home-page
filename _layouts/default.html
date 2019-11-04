@@ -9,7 +9,11 @@
     <section class="main-content">
       
       {{ content }}
-      <div id="gitalk-container"></div>
+
+      {% include page-footer.html %}
+
+    </section>
+          <div id="gitalk-container"></div>
       var gitalk = new Gitalk({
   clientID: '932c155ca8d934536cf2',
   clientSecret: '5e7fcc5210ccda4981fb5e993436fe97533ba593',
@@ -21,10 +25,6 @@
 })
 
 gitalk.render('gitalk-container')
-
-      {% include page-footer.html %}
-
-    </section>
 
   </body>
 </html>
