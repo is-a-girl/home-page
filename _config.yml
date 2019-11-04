@@ -16,3 +16,11 @@ gems:
 
 #Others
 markdown: kramdown
+comments:
+  gitalk: true
+  gitalk_clientID: '932c155ca8d934536cf2'
+  gitalk_Secret: '5e7fcc5210ccda4981fb5e993436fe97533ba593'
+  gitalk_repo: 'is-a-girl.github.io'
+  gitalk_owner: 'is-a-girl'
+  gitalk_admin: 'is-a-girl'
+  distractionFreeMode: true
