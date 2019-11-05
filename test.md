@@ -5,7 +5,7 @@ date:   2016-02-12 17:50:00
 permalink: /
 ---
 
-[欢迎来玩AH-IA-A-GIRL](https://ah.isagirl.gq/)
+## [欢迎来玩AH-IS-A-GIRL](https://ah.isagirl.gq/)
 
 @[AH是女孩子](https://www.luogu.org/space/show?uid=89396)
 
