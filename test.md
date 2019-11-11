@@ -23,7 +23,7 @@ permalink: /
 
 @[神兔是女孩子](https://www.luogu.org/space/show?uid=243211)
 
-@[NaCly_Fish妹子](https://www.luogu.org/space/show?uid=243217)（公用账号）密码：syakioi
+@[NaCly_Fish妹子](https://www.luogu.org/space/show?uid=243217)（公用账号）要密码的直接私信这个人
 
 @[HS是女孩子](https://www.luogu.org/space/show?uid=243209)
 
